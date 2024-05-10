@@ -7,13 +7,14 @@ O Jogo Herói e Vilão é uma aplicação web que simula uma batalha entre um he
 
 # Índice 
 * [Descrição do Jogo](#descrição-do-jogo)
-* [Características do Jogo](#-👩‍💻-características-do-jogo)
+* [Características do Jogo](#-características-do-jogo)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Funcionalidades](#funcionalidades)
 * [Orientação de Utilização](#orientação-de-utilização)
 * [Interface](#interface)
 * [Como Jogar](#como-jogar)
 * [Licença](#licença)
+
 
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
