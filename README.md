@@ -6,13 +6,13 @@ O Jogo Herói e Vilão é uma aplicação web que simula uma batalha entre um he
 
 
 # Índice 
-* [Descrição do Jogo](#-descrição-do-jogo)
+* [Descrição do Jogo](#-descrição)
 * [Características do Jogo](#-características-do-jogo)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Funcionalidades](#-funcionalidades)
-* [Orientação de Utilização](#-orientação-de-utilização)
-* [Interface](#-interface)
-* [Como Jogar](#-como-jogar)
+* [Funcionalidades](#%EF%B8%8F-funcionalidades)
+* [Orientação de Utilização](#%EF%B8%8F-orientação-de-utilização)
+* [Interface](#flower_playing_cards-interface)
+* [Como Jogar](#%EF%B8%8Fcomo-jogar)
 * [Licença](#licença)
 
 
@@ -51,14 +51,14 @@ O Jogo Herói e Vilão é uma aplicação web que simula uma batalha entre um he
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-# 🖥️ Funcionalidades:
+# 🖥️ Funcionalidades
 - Login e Cadastro: Os jogadores podem se cadastrar e fazer login para acessar o jogo.
 - Batalha: Durante a batalha, os jogadores podem realizar diferentes ações, como atacar, defender, usar poções de cura e correr.
 - Atualização de Vida: Após cada ação, a vida do herói e do vilão é atualizada no banco de dados.
 - Histórico de Ações: Todas as ações realizadas durante a partida são registradas em um histórico e armazenadas no banco de dados.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🗒️ Orientação de Utilização
+# 🗒️Orientação de Utilização
 
 ### 🚀 Pré-requisitos
 
@@ -112,7 +112,7 @@ encrypt: true // Dependendo da configuração do seu servidor SQL Server
 - Observe a atualização em tempo real da vida dos personagens e o histórico de ações realizadas.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# :flower_playing_cards: Interface
+# 🎴Interface
 
 ### Tela inicial - tela de Login 
 | Tela   | Imagem                                                                                                  |
