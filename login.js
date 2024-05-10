@@ -17,7 +17,7 @@ const login = {
     methods: {
         async fazerLogin() {
             try {
-                const response = await fetch('http://localhost:3000/usuario', {
+                const response = await fetch('https://prova-marcio.onrender.com/usuario', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
@@ -62,7 +62,7 @@ const singin = {
     methods: {
         async criarConta() {
             try {
-                const response = await fetch('http://localhost:3000/atualizarUsuario', {
+                const response = await fetch('https://prova-marcio.onrender.com/atualizarUsuario', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
